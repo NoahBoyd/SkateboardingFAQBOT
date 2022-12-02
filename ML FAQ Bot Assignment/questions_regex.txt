@@ -1,0 +1,20 @@
+.*What size.*?(wrench)?kingpin.*(skateboard)?
+(what is|what trick).*(first)?(learn).*(first)?
+(what is|which).*(popular|best).*(brand)?(skateboard)?
+(how do|do i|what is)?.*(ride)?.*(difference|difference between)?.*(goofy|regular).*(or|and)?.*(goofy|regular)
+(what)?.*(youtube channel|youtube channels).*(help|good for)?.*(learn|learning).*(skateboard|skateboarding)
+(what size).*(allen key|wrench).*(hardware)
+(what)?.*(common)?(board size|size board)\s(should|do)?.*(start|ride|buy)
+(what)?.*?(grinds).*?(learn first|learn)
+(how much|price).*(skateboard deck)
+(((what size wheels).*?(size 8).*?(skateboard|deck))|((size 8).*?(what size wheels)))
+(what|how).*?(does|is|do|can).*?(ride|riding)?(switch)\s?(mean)?
+(am i|how old|is).*?(too old).*?(to learn|to start).*?(skateboarding|skateboard)
+(what are|what).*?(tricks).*(beginner).*(learn)?
+(what)?.*?(are|do|part).*?(trucks).*?(skateboard)?
+(what).*?(do|are).*(risers|riser pads)
+(what|where)\s(are|is)\s(some)?.*(famous).*(skate spots|skate spot)
+(((is skateboarding)\s(in|an).*(olympics|olympic)\s?(sport)?)|(can i).*?(watch skateboarding).*(olympics))
+(((should i)\s(buy|use)\s(hard|soft).*?(hard|soft)\s(wheels))|((what is the difference).*?(hard|soft).*?(hard|soft)\s(wheels)))
+(does|do).*(i need)?.*(good bearings)
+(where).*(can i|should i)?.*(buy a skateboard|buying a skateboard)

@@ -1,0 +1,44 @@
+Link to discord Bot:
+https://discord.com/api/oauth2/authorize?client_id=1020394854062227587&permissions=274877908992&scope=bot
+
+Instructions:
+
+This discord bot does not require any kind of prefix to recognize a users message.
+
+This bot also does not take punctuation into account and is case insensitive when analyzing questions. 
+
+FILES: 
+
+File for stand alone discord bot is "faq_bot.py"
+
+File for discord implementation is "discord_faq_bot.py" 
+
+
+REPORT:
+
+How to run the bot: 
+CMD Line Version - Run the file named "faq_bot.py". Once this is complete you must use the "chat()" function in the shell to start the bot.
+Discord Version - In order to use the bot it must be first added to your server. Using the link provided at the
+top of this file, paste it into a web browser and follow the steps discord provides to add it to your server. Once this is completed, run the file named "discord_faq_bot.py".
+
+Interacting with the bot: 
+Try asking the bot some questions about skateboarding. Some examples could be: "How much does a skateboard deck cost", or "What are some beginner grinds I can learn".
+A complete set of questions supported by the bot can be found in the ML_Questions.txt file.
+Test the sentiment analysis by sending messages such as "This bot is terrible" or "This bot is great"
+
+Vector Representations:
+I chose to use CountVectorizer for the Vector Representations. 
+I used the parameter max_df=0.5
+This parameter worked well for the bot, because "Skateboard" occurs alot within the questions, so if a question was asked with "skateboard" in
+the utterance, it would sway the question chosen heavily towards a question that includes "skateboard"
+
+
+Transfer Learning: 
+I chose to use word embeddings while training my classifier in step 2 on the sentiment corpus. 
+
+Things to try: 
+- Sending the bot a negative message
+- sending the bot a positive message
+- asking the bot for directions
+- asking the bot questions about skateboarding
+- asking questions not related to skateboarding
